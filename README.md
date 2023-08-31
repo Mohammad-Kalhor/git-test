@@ -68,3 +68,11 @@ ___
 
 ## Images:
 ![Random Picture](./50.jpg)
+
+![npm downloads](https://img.shields.io/npm/dw/express)
+![npm downloads](https://img.shields.io/npm/dw/nest)
+![npm downloads](https://img.shields.io/npm/dw/swiper)
+
+![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+![TEnsorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
